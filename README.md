@@ -15,7 +15,7 @@ The manuscript is currently under review.
    <td>
 <ul>
 
-<li>01.Demultiplex.txt
+<li>01.Demultiplex.sh
 </li>
 </ul>
    </td>
@@ -26,7 +26,7 @@ The manuscript is currently under review.
    <td>
 <ul>
 
-<li>02.Extract_ITS.txt
+<li>02.Extract_ITS.sh
 </li>
 </ul>
    </td>
@@ -37,7 +37,7 @@ The manuscript is currently under review.
    <td>
 <ul>
 
-<li>03.Chimera_removal.txt
+<li>03.Chimera_removal.sh
 </li>
 </ul>
    </td>
@@ -48,7 +48,7 @@ The manuscript is currently under review.
    <td>
 <ul>
 
-<li>04.Prepare_UNITE_data.txt
+<li>04.Prepare_UNITE_data.sh
 </li>
 </ul>
    </td>
@@ -59,7 +59,7 @@ The manuscript is currently under review.
    <td>
 <ul>
 
-<li>05.Clustering.txt
+<li>05.Clustering.sh
 </li>
 </ul>
    </td>
@@ -72,7 +72,7 @@ The manuscript is currently under review.
 
 <li>06.OTU_representative_script.R
 
-<li>06.Select_new_OTU_representative.txt
+<li>06.Select_new_OTU_representative.sh
 </li>
 </ul>
    </td>
@@ -83,7 +83,7 @@ The manuscript is currently under review.
    <td>
 <ul>
 
-<li>07.BLAST.txt
+<li>07.BLAST.sh
 </li>
 </ul>
    </td>
