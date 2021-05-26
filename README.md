@@ -147,7 +147,7 @@ The following software was used in the analysis:
 
 ## Acknowledgements
 
-This bulk of this work was supported by the Estonian Science Foundation (grants PRG632, MOBTP198) and Norway-Baltic financial mechanism (grant EMP442).
+The bulk of this work was supported by the Estonian Science Foundation (grants PRG632, PSG136, MOBTP198, PUT1170), Norway-Baltic financial mechanism (grant EMP442) and Novo Nordisk Fonden (Silva Nova).
 
 
 ## Contact
