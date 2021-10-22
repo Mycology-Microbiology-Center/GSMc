@@ -96,7 +96,7 @@ The manuscript is currently under review.
 
 ## Data availability
 
-The results of the analysis are available from the PlutoF data repository [DOI 10.15156/BIO/1439520](https://doi.org/10.15156/BIO/1439520) and include an OTU table with corresponding sample and OTU (taxonomic and functional) metadata in spreadsheet and Biological Observation Matrix (BIOM) formats.
+The results of the analysis are available from the PlutoF data repository [DOI 10.15156/BIO/2263453](https://doi.org/10.15156/BIO/2263453) and include an OTU table with corresponding sample and OTU (taxonomic and functional) metadata in spreadsheet and Biological Observation Matrix (BIOM) formats.
 
 UNITE 9.01 beta dataset (used for reference-based chimera identification) available at https://doi.org/10.15156/BIO/1444285
 
